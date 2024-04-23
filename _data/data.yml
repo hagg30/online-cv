@@ -119,26 +119,26 @@ experiences:
 
 projects:
     title: Career
-assignments:
-  - title: Undergraduate research student of URP program
-    link: "#"
-    tagline: "Participated in undergraduate research at Kyungpook National University, focusing on projects from Mar 2013 to Dec 2013."
+    assignments:
+      - title: Undergraduate research student of URP program
+        link: "#"
+        tagline: "Participated in undergraduate research at Kyungpook National University, focusing on projects from Mar 2013 to Dec 2013."
 
-  - title: Vise-chair of ACM-ICPC club
-    link: "#"
-    tagline: "Led the ACM-ICPC club at Kyungpook National University as Vice-chair from Mar 2015 to Dec 2015."
+      - title: Vise-chair of ACM-ICPC club
+        link: "#"
+        tagline: "Led the ACM-ICPC club at Kyungpook National University as Vice-chair from Mar 2015 to Dec 2015."
 
-  - title: Participant of ACM-ICPC 2013 Daejeon Regional
-    link: "#"
-    tagline: "Competed in the ACM-ICPC 2013 Daejeon Regional event in September 2015."
+      - title: Participant of ACM-ICPC 2013 Daejeon Regional
+        link: "#"
+        tagline: "Competed in the ACM-ICPC 2013 Daejeon Regional event in September 2015."
 
-  - title: Teaching Assistant at KAIST
-    link: "#"
-    tagline: "Served as a Teaching Assistant for multiple courses at KAIST, including Artificial Intelligence and Machine Learning, Discrete Mathematics, and Special Topics in Computer Science from 2018 to 2021."
+      - title: Teaching Assistant at KAIST
+        link: "#"
+        tagline: "Served as a Teaching Assistant for multiple courses at KAIST, including Artificial Intelligence and Machine Learning, Discrete Mathematics, and Special Topics in Computer Science from 2018 to 2021."
 
-  - title: Visiting Researcher, KU-Center for Cyber-Physical System
-    link: "#"
-    tagline: "Worked as a Visiting Researcher at the KU-Center for Cyber-Physical Systems from Feb 2020 to Mar 2020, focusing on advanced research in cyber-physical systems."
+      - title: Visiting Researcher, KU-Center for Cyber-Physical System
+        link: "#"
+        tagline: "Worked as a Visiting Researcher at the KU-Center for Cyber-Physical Systems from Feb 2020 to Mar 2020, focusing on advanced research in cyber-physical systems."
 
 
 publications:
